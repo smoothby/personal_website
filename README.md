@@ -17,7 +17,8 @@ This repo contains the website design files for https://boothby.me
 
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
+
+------
 
 Credit: [Smoothby](https://github.com/smoothby)
 Last Edit: Feb. 2, 2024
