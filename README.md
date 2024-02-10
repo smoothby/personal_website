@@ -10,3 +10,20 @@ This repo contains the website design files for https://boothby.me
 - ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=smoothby&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+---
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+Credit: [Smoothby](https://github.com/smoothby)
+Last Edit: Feb. 2, 2024
