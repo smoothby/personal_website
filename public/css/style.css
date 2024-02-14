@@ -511,8 +511,14 @@ video {
 .col-start-4{
   grid-column-start: 4;
 }
+.col-start-3{
+  grid-column-start: 3;
+}
 .col-end-4{
   grid-column-end: 4;
+}
+.col-end-3{
+  grid-column-end: 3;
 }
 .row-span-5{
   grid-row: span 5 / span 5;
