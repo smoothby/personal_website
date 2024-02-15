@@ -570,9 +570,6 @@ video {
 .h-3{
   height: 0.75rem;
 }
-.h-4{
-  height: 1rem;
-}
 .h-full{
   height: 100%;
 }
@@ -582,15 +579,8 @@ video {
 .w-3{
   width: 0.75rem;
 }
-.w-4{
-  width: 1rem;
-}
 .w-5{
   width: 1.25rem;
-}
-.w-min{
-  width: -moz-min-content;
-  width: min-content;
 }
 .w-max{
   width: -moz-max-content;
@@ -672,8 +662,14 @@ video {
   font-size: 0.75rem;
   line-height: 1rem;
 }
+.font-bold{
+  font-weight: 700;
+}
 .font-light{
   font-weight: 300;
+}
+.font-medium{
+  font-weight: 500;
 }
 .text-whiskey-400{
   --tw-text-opacity: 1;
