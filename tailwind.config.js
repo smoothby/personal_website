@@ -10,7 +10,8 @@ module.exports = {
         },
       },
       animation: {
-        fullpulse: 'pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+        slowpulse15: 'pulse 1.5s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+        slowpulse25: 'pulse 2.5s cubic-bezier(0.4, 0, 0.6, 1) infinite',
       },
       colors: {
         whiskey: {
