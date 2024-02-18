@@ -28,6 +28,9 @@ module.exports = {
           950: "#381912",
         },
       },
+      backgroundImage: {
+        'main-bg': "url('../img/bg-1.webp')",
+      },
       fontFamily: {
         alfa: ['"Alfa Slab One"', "serif"],
         opensans: ['"Open Sans"', "sans-serif"],

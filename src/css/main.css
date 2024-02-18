@@ -6,6 +6,6 @@
 
 @layer components {
     .link-main {
-      @apply list-disc hover:list-disc hover:underline hover:underline-offset-4 hover:decoration-2 hover:text-whiskey-500;
+      @apply mb-3 list-disc hover:list-disc hover:underline hover:underline-offset-4 hover:decoration-2 hover:text-whiskey-500;
     }
   }
